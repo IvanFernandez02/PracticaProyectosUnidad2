@@ -18,7 +18,7 @@ Esta práctica abarca los **métodos de ordenamiento y búsqueda** estudiados du
    - Merge Sort
    - Shell Sort
 2. Implementar métodos de búsqueda:
-   - Búsqueda Secuencial
+   - Búsqueda Lineal
    - Búsqueda Binaria
 3. Comparar la eficiencia de los algoritmos según el tamaño de los datos de entrada.
 4. Mostrar los resultados
